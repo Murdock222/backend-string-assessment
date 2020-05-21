@@ -65,8 +65,8 @@ def front_back(a, b):
             bString = newStringB // 2
         else:
             bString = (newStringB // 2) + 1
-        return str(a) + str(b) 
-        # a-front + b-front + a-back + b-back
+        return str(a) + str(b)
+        # a-front + b-front + a-back 
 
 
 
